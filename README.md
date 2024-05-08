@@ -1,9 +1,11 @@
 # SuperX_term
 
 Terms and conditions
+
 These terms and conditions (“Agreement”) set forth the general terms and conditions of your use of the “SuperX” mobile application (“Mobile Application”) and any of their related products and services (collectively, “Services”). This Agreement is legally binding between you (“User”, “you” or “your”) and SuperX (“SuperX”, “we”, “us” or “our”). If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms “User”, “you” or “your” shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Services. By accessing and using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and SuperX, even though it is electronic and is not physically signed by you, and it governs your use of the Services.
 
 Subscription
+
 The Right Holder has the right to provide access to the Application or its individual functionality via Subscription.
 
 The Right Holder is entitled to provide a trial period of the functionality available under the Subscription for the period specified in the Application.
