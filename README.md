@@ -1,59 +1,45 @@
-# SuperX_term
+# SuperX Terms of Use
 
-## Terms and conditions
+Last updated: October 8, 2026
 
-These terms and conditions (“Agreement”) set forth the general terms and conditions of your use of the “SuperX” mobile application (“Mobile Application”) and any of their related products and services (collectively, “Services”). This Agreement is legally binding between you (“User”, “you” or “your”) and SuperX (“SuperX”, “we”, “us” or “our”). If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms “User”, “you” or “your” shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Services. By accessing and using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. You acknowledge that this Agreement is a contract between you and SuperX, even though it is electronic and is not physically signed by you, and it governs your use of the Services.
+These Terms of Use govern your use of the SuperX iOS app. By using SuperX, you agree to these terms. If you do not agree, please do not use the app. For information about how SuperX handles data, see the [SuperX Privacy Policy](https://github.com/JRJian/SuperX_privacy).
 
-## Subscription
+## What SuperX provides
 
-The Right Holder has the right to provide access to the Application or its individual functionality via Subscription.
+SuperX offers picture-in-picture playback, a built-in browser, and tools for viewing media and documents you choose to open. Some features may require an internet connection, compatible device, supported content, or an optional in-app purchase. SuperX does not require a SuperX account and does not serve its own advertisements.
 
-The Right Holder is entitled to provide a trial period of the functionality available under the Subscription for the period specified in the Application.
+Features may change or become unavailable if iOS, a website, or another service changes. We may update, suspend, or discontinue a feature when reasonably necessary. This does not affect any rights you have under applicable law or the terms of an eligible purchase.
 
-Subscription period depends on the Subscription Fee paid by the User.
+## Your use of the app and content
 
-The Fee is listed in the Application. The Fee does not include possible commissions of payment providers.
+You are responsible for the URLs, files, and content you choose to open. Use SuperX only in ways that comply with applicable law and the rights and terms of the relevant content provider. Do not use the app to access content without permission, infringe intellectual property rights, or interfere with the app or a third-party service.
 
-The Right Holder has the right at its own discretion and unilaterally to set discounts on the Fee, to change it, and the fee paid for the Subscription is not subject to change. The Right Holder notifies about changes in the Fee by posting information in the Application.
+SuperX does not grant you ownership of, or rights to copy, download, redistribute, or otherwise exploit, content provided by third parties. Access to a video in SuperX does not mean that the video is available for every use or in every region.
 
-If the App Store has returned the payment for the Subscription to the User, the Right Holder shall block access to the functionality under the Subscription.
+## YouTube and other third-party services
 
-Information about the activated Fee and the number of remaining days of use is contained in the Account.
+SuperX uses the YouTube IFrame Player API to display YouTube content. **By using SuperX, including its YouTube playback features, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms).** YouTube content and playback are provided by YouTube, and YouTube may restrict or change their availability. SuperX is an independent app and is not endorsed by or affiliated with YouTube or Google.
 
-## Payments
+SuperX may also open other websites and services. Their own terms and privacy policies apply when you use them. We do not control their content, operation, or availability. The [SuperX Privacy Policy](https://github.com/JRJian/SuperX_privacy) explains how these services may handle data when accessed through the app.
 
-The Fee selected by the User is debited from the Card when the User confirms the purchase, and then automatically.
+## Free use and in-app purchases
 
-Subscription renewal Fees shall be charged from the Card until the end of the current Subscription period or at the end of the Subscription period, depending on the App Store approach regarding the original Subscription Fee.
+SuperX may limit the number of picture-in-picture operations available without a purchase. If you choose a paid option, the app and Apple's purchase sheet will show the current product, price, and applicable billing terms before you confirm payment. Apple processes the transaction; SuperX does not collect your payment card details.
 
-User may manage Subscriptions and disable their automatic renewal by means of the Account.
+You can use the restore option in the app to check an eligible prior purchase. Purchase availability and restoration may depend on your Apple Account and App Store rules. For refunds or billing issues, use [Apple's purchase support](https://support.apple.com/billing). These terms do not take away any refund or consumer rights provided by applicable law.
 
-The User has the right to cancel Subscriptions during the trial period. If the User fails to cancel the Subscription before the end of the trial period within the period set by the App Store, the payment for the Subscription will be charged from the Card.
+## Privacy
 
-If the User cancels a Subscription, the cancellation shall be effective after the end of the last day of the Subscription period. If the User has not canceled the Subscription for the next period, the Fee will be charged from the Card.
+Your use of SuperX is also described in the [SuperX Privacy Policy](https://github.com/JRJian/SuperX_privacy). Third-party websites and services, including YouTube, handle data under their own policies.
 
-User's payment for the Fee shall be processed through the App Store interface.
+## Availability and responsibility
 
-If the Card is not attached to the Account, its details are invalid or there are not enough funds to pay for the Subscription, the Right Holder does not provide access to the Subscription.
+We aim to keep SuperX working, but do not promise uninterrupted access or that every website, file, device, or picture-in-picture mode will work. To the extent permitted by applicable law, SuperX is provided as available, without guarantees beyond those expressly required by law. Nothing in these terms excludes or limits rights or remedies that cannot legally be excluded or limited.
 
-No refunds shall be made for the paid but unused Subscription period.
+## Changes to these terms
 
-## Accounts and membership
+We may revise these terms to reflect changes to SuperX or applicable requirements. We will post the revised terms and update the date above. If a change materially affects your use of the app, we will provide notice where reasonably possible. Continued use after the revised terms take effect means you accept them, subject to applicable law.
 
-If you create an account on the Services, you are responsible for maintaining the security of your account and you are fully responsible for all activities that occur under the account and any other actions taken in connection with it. We may, but have no obligation to, monitor and review new accounts before you may sign in and start using the Services. Providing false contact information of any kind may result in the termination of your account. You must immediately notify us of any unauthorized uses of your account or any other breaches of security. We will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions.
+## Contact
 
-## Links to other resources
-
-Although the Services may link to other resources (such as websites, mobile applications, etc.), we are not, directly or indirectly, implying any approval, association, sponsorship, endorsement, or affiliation with any linked resource, unless specifically stated herein. We are not responsible for examining or evaluating, and we do not warrant the offerings of, any businesses or individuals or the content of their resources. We do not assume any responsibility or liability for the actions, products, services, and content of any other third parties. You should carefully review the legal statements and other conditions of use of any resource which you access through a link on the Services. Your linking to any other off-site resources is at your own risk.
-
-## Changes and amendments
-
-We reserve the right to modify this Agreement or its terms related to the Services at any time at our discretion. When we do, we will revise the updated date at the bottom of this page, post a notification within the Services, send you an email to notify you. We may also provide notice to you in other ways at our discretion, such as through the contact information you have provided.
-
-## Acceptance of these terms
-
-You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Services.
-
-## Contacting us
-
-If you have any questions, concerns, or complaints regarding this Agreement, we encourage you to contact us using the details below:
+For questions about these terms, email [szsb_jian@outlook.com](mailto:szsb_jian@outlook.com).
