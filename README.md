@@ -1,8 +1,14 @@
 # SuperX Terms of Use
 
-Last updated: October 8, 2026
+Last updated: October 13, 2026
 
 These Terms of Use govern your use of the SuperX iOS app. By using SuperX, you agree to these terms. If you do not agree, please do not use the app. For information about how SuperX handles data, see the [SuperX Privacy Policy](https://github.com/JRJian/SuperX_privacy).
+
+## Apple Standard End User License Agreement (EULA)
+
+SuperX is licensed to you under the [Apple Standard End User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). Please read that agreement for the terms governing your license to the app, including content, materials, and services accessible from or purchased within it.
+
+These SuperX Terms of Use provide additional information about our features, subscriptions, and third-party services. They supplement the Apple Standard EULA and do not replace it or limit any rights you have under applicable law. If these terms conflict with the Apple Standard EULA regarding your license to the app, the Apple Standard EULA controls.
 
 ## What SuperX provides
 
@@ -22,9 +28,21 @@ SuperX uses the YouTube IFrame Player API to display YouTube content. **By using
 
 SuperX may also open other websites and services. Their own terms and privacy policies apply when you use them. We do not control their content, operation, or availability. The [SuperX Privacy Policy](https://github.com/JRJian/SuperX_privacy) explains how these services may handle data when accessed through the app.
 
-## Free use and in-app purchases
+## Free use, in-app purchases, and subscriptions
 
 SuperX may limit the number of picture-in-picture operations available without a purchase. If you choose a paid option, the app and Apple's purchase sheet will show the current product, price, and applicable billing terms before you confirm payment. Apple processes the transaction; SuperX does not collect your payment card details.
+
+### Auto-renewable subscriptions
+
+SuperX offers monthly and yearly auto-renewable subscriptions. The subscription name, included features, duration, and price in your local currency are shown in the app and Apple's purchase sheet before you confirm a purchase. Paid subscription features are available while your subscription is active.
+
+- Payment is charged to your Apple Account when you confirm the purchase.
+- Subscriptions renew automatically unless you cancel at least 24 hours before the end of the current subscription period. Your Apple Account will be charged for renewal within 24 hours before that period ends, at the applicable renewal price.
+- You can manage or cancel your subscription in **Settings > your name > Subscriptions** on your iPhone or iPad, or through [Apple's subscription management page](https://apps.apple.com/account/subscriptions). Deleting SuperX does not cancel your subscription.
+- Cancellation stops future renewals. You can generally continue using the subscription until the end of the paid period, subject to Apple's applicable terms and any refund or statutory rights.
+- If a free trial or introductory offer is available, its eligibility, duration, and subsequent price are shown before purchase. The subscription renews at the disclosed regular price after the offer ends unless canceled at least 24 hours before the offer expires. Any unused portion of a free trial is forfeited when you purchase a subscription, where applicable.
+
+### Restoration and billing support
 
 You can use the restore option in the app to check an eligible prior purchase. Purchase availability and restoration may depend on your Apple Account and App Store rules. For refunds or billing issues, use [Apple's purchase support](https://support.apple.com/billing). These terms do not take away any refund or consumer rights provided by applicable law.
 
