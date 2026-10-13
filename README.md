@@ -32,6 +32,12 @@ SuperX may also open other websites and services. Their own terms and privacy po
 
 SuperX may limit the number of picture-in-picture operations available without a purchase. If you choose a paid option, the app and Apple's purchase sheet will show the current product, price, and applicable billing terms before you confirm payment. Apple processes the transaction; SuperX does not collect your payment card details.
 
+### One-time purchase (non-consumable)
+
+SuperX also offers a one-time purchase to unlock the features specified on the purchase screen. The included features and price are displayed before you confirm payment.
+
+This purchase is not a subscription and does not renew automatically. The purchased entitlement does not expire or decrease with use. You can restore an eligible purchase using the in-app restore option while signed in to the same Apple Account used for the original purchase.
+
 ### Auto-renewable subscriptions
 
 SuperX offers monthly and yearly auto-renewable subscriptions. The subscription name, included features, duration, and price in your local currency are shown in the app and Apple's purchase sheet before you confirm a purchase. Paid subscription features are available while your subscription is active.
